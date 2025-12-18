@@ -1,4 +1,4 @@
-# Power BI: Menus Interativos e Filtros Dinâmicos 🎨
+# Menus Interativos e Filtros Dinâmicos 🎨
 
 Link do Dashboard: [Power BI](?)
 
@@ -23,11 +23,6 @@ Desmonstrar o uso das funções:
 
 Indicadores (Bookmarks): Para salvar estados específicos do relatório (filtros, visibilidade de objetos e foco).
 
-Painel de Seleção: Gerenciamento da visibilidade de camadas para criar o efeito de menu "pop-out".
-
-DAX para Títulos Dinâmicos: ```dax Filtro Selecionado = "Exibindo dados de: " & SELECTEDVALUE(Tabela[Coluna], "Todos")
-
-Botões com Ações: Gatilhos configurados para ativar os indicadores de "Abrir Menu" e "Fechar Menu".
 
 ### 📊 O que o projeto mostra
 Como economizar espaço em tela usando menus retráteis.
