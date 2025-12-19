@@ -33,11 +33,14 @@ Como dar feedback visual imediato ao usuário sobre a segmentação de dados ati
 
 
 ### Para acessar o filtro, selecione "Filtros" no menu superior direito.
-![alt text](/img/dash%20padrao.png)
+
+![alt text](/img/dash%20filtro%20ativo.png)
+
 
 ### Depois de selecionar o filtro, você vai estar visualizando o menu interativo desenvolvido.
 
-![alt text](/img/dash%20filtro%20ativo.png)
+![alt text](/img/dash%20padrao.png)
+
 
 #### Agora você tem disponível de maneira fácil e interativa os filtros selecionados que deseja analisar no dashboard e caso deseje limpar os filtros selecionados basta pressionar o botão **LIMPAR FILTROS** 
 
