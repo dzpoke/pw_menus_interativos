@@ -1,6 +1,6 @@
 # Menus Interativos e Filtros Dinâmicos 🎨
 
-Link do Dashboard: [Power BI](?)
+Link do Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWYwNmE1ZjEtYjA0Ni00MmUyLWI3OTItODgzZTM2NzljOWFiIiwidCI6IjE5NzcwNzAzLTBhYmQtNDg5ZC05ZWU3LWI3NzZlYzJkYmViZCJ9)
 
 Este projeto demonstra a criação de uma interface de usuário avançada no Power BI, focando na navegabilidade através de Indicadores (Bookmarks) e na visualização de filtros aplicados via Concatenação.
 
@@ -28,3 +28,5 @@ Indicadores (Bookmarks): Para salvar estados específicos do relatório (filtros
 Como economizar espaço em tela usando menus retráteis.
 
 Como dar feedback visual imediato ao usuário sobre a segmentação de dados ativa.
+
+### Fonte de Dados: [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data) 🔗
