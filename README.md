@@ -1,10 +1,12 @@
 # Menus Interativos e Filtros Dinâmicos 🎨
 
-Link do Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWYwNmE1ZjEtYjA0Ni00MmUyLWI3OTItODgzZTM2NzljOWFiIiwidCI6IjE5NzcwNzAzLTBhYmQtNDg5ZC05ZWU3LWI3NzZlYzJkYmViZCJ9)
+#### Link do Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWYwNmE1ZjEtYjA0Ni00MmUyLWI3OTItODgzZTM2NzljOWFiIiwidCI6IjE5NzcwNzAzLTBhYmQtNDg5ZC05ZWU3LWI3NzZlYzJkYmViZCJ9)
+
+###### Fonte de Dados: [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data) 🔗
 
 Este projeto demonstra a criação de uma interface de usuário avançada no Power BI, focando na navegabilidade através de Indicadores (Bookmarks) e na visualização de filtros aplicados via Concatenação.
 
-![GitHub Logo](/rendimiento-graficos-powerbi.jpg)
+![GitHub Logo](/img/rendimiento-graficos-powerbi.jpg)
 
 ### Objetivos de Aprendizado 🎯
 
@@ -29,4 +31,13 @@ Como economizar espaço em tela usando menus retráteis.
 
 Como dar feedback visual imediato ao usuário sobre a segmentação de dados ativa.
 
-### Fonte de Dados: [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data) 🔗
+
+### Para acessar o filtro, selecione "Filtros" no menu superior direito.
+![alt text](/img/dash%20padrao.png)
+
+### Depois de selecionar o filtro, você vai estar visualizando o menu interativo desenvolvido.
+
+![alt text](/img/dash%20filtro%20ativo.png)
+
+#### Agora você tem disponível de maneira fácil e interativa os filtros selecionados que deseja analisar no dashboard e caso deseje limpar os filtros selecionados basta pressionar o botão **LIMPAR FILTROS** 
+
