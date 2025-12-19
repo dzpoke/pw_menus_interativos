@@ -20,6 +20,10 @@ User Experience (UX): Melhorar a fluidez do relatório, escondendo elementos com
 
 Desmonstrar o uso das funções:
 
+- TOPN
+- CONCATENATEX
+- BOOKMARKS
+- ORGANIZAÇÃO DE OBJETOS
 
 ### 🛠️ Recursos Utilizados
 
